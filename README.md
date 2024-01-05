@@ -21,7 +21,7 @@ Tab Stacker is a Chrome extension designed to simplify the management and sharin
 4. Select the directory where the repository is cloned.
 5. Click on the Tab Stacker icon in Chrome to begin managing and sharing your tab links.
 
-[![How it Works]](https://www.loom.com/share/c4e87e23a4f44843aeed447ccbf38337)
+[[How it Works]](https://www.loom.com/share/c4e87e23a4f44843aeed447ccbf38337)
 
 Feel free to contribute or provide suggestions for further enhancements!
 
