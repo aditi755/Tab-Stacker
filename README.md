@@ -6,7 +6,7 @@ Tab Stacker is a Chrome extension designed to simplify the management and sharin
 ## Usage
 - **Organize Links:** Click the extension icon to compile and organize all opened tab links.
 - **Share with Ease:** Seamlessly share compiled links with others through WhatsApp.
-- **Bitly or Linktree Integration (In Progress):** Work underway to integrate Bitly or LinkTree API for generating a single link encompassing all tabs.
+- **Bitly or Linktree Integration (In Progress):** Working underway to integrate Bitly or LinkTree API for generating a single link encompassing all tabs.
 
 ## Technologies Used
 - HTML
